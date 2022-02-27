@@ -1,0 +1,4 @@
+This is project is on crowd behaviour detection
+This project basically consists of two main modules:
+1-> Object detection tracking and social distance checking
+2-> people counting and alert provider on the basis of density
